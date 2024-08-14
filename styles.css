@@ -18,14 +18,17 @@ body {
 .line-1{
 	border:1px solid black;
 	top:0px;
+	height:222.44444274902344px;
 }
 .line-2{
 	border:1px solid black;
-	top:0px;
+	top:66.5938px;
+	height:222.44444274902344px;
 }
 .line-3{
 	border:1px solid black;
-	top:0px;
+	top:133.195px;
+	height:222.44444274902344px;
 }
 
 .face {
