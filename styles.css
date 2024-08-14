@@ -15,6 +15,18 @@ body {
     transform: rotateX(0deg) rotateY(0deg);
     transition: transform 1s;
 }
+.line-1{
+	border:1px solid black;
+	top:0px;
+}
+.line-2{
+	border:1px solid black;
+	top:0px;
+}
+.line-3{
+	border:1px solid black;
+	top:0px;
+}
 
 .face {
     position: absolute;
